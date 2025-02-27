@@ -1,0 +1,11 @@
+Cuad
+7
+Rect
+2
+4
+Circ
+3
+Tri
+3
+Tri
+4
